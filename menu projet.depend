@@ -1,0 +1,746 @@
+# depslib dependency file v1.0
+1588413430 source:c:\codeblocks\menu projet papo 2\attaque.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"def_tot.h"
+
+1588409853 c:\codeblocks\menu projet papo 2\attaque.h
+	"collisions.h"
+	"def_tot.h"
+
+1588342114 c:\codeblocks\menu projet papo 2\collisions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"def_tot.h"
+
+1588342114 c:\codeblocks\menu projet papo 2\def_tot.h
+
+1588342114 source:c:\codeblocks\menu projet papo 2\collisions.c
+	"collisions.h"
+	"def_tot.h"
+
+1588403702 source:c:\codeblocks\menu projet papo 2\def_tot.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+
+1588401127 source:c:\codeblocks\menu projet papo 2\defense.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+
+1588342115 source:c:\codeblocks\menu projet papo 2\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"niveau.h"
+
+1588342115 c:\codeblocks\menu projet papo 2\niveau.h
+
+1588405890 source:c:\codeblocks\menu projet papo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"niveau.h"
+
+1588365040 source:c:\codeblocks\menu projet papo 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588372803 source:c:\codeblocks\menu projet papo 2\niveau_1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+
+1588342115 source:c:\codeblocks\menu projet papo 2\niveau_2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+
+1588342115 source:c:\codeblocks\menu projet papo 2\niveau_3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+
+1588342116 source:c:\codeblocks\menu projet papo 2\régles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588406177 source:c:\codeblocks\menu projet papo 2\score.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588495052 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\attaque.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"def_tot.h"
+
+1588495052 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\attaque.h
+	"collisions.h"
+	"def_tot.h"
+
+1588495052 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\collisions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"def_tot.h"
+
+1588506940 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\def_tot.h
+
+1588495052 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\collisions.c
+	"collisions.h"
+	"def_tot.h"
+
+1588508506 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\def_tot.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+
+1588508167 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\defense.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"collisions.h"
+
+1588508167 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"niveau.h"
+
+1588508221 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\niveau.h
+	"attaque.h"
+
+1588511605 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"niveau.h"
+
+1588511288 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"attaque.h"
+
+1588508262 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\niveau_1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+
+1588495054 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\niveau_2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+
+1588495054 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\niveau_3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+
+1588495054 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\régles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588511386 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\menu projet papo 4\score.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588523972 source:c:\codeblocks\menu projet papo 4\collisions.c
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588523264 c:\codeblocks\menu projet papo 4\collisions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"def_tot.h"
+
+1588523264 c:\codeblocks\menu projet papo 4\def_tot.h
+
+1588525665 source:c:\codeblocks\menu projet papo 4\def_tot.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"Global.h"
+
+1588523264 c:\codeblocks\menu projet papo 4\attaque.h
+	"collisions.h"
+	"def_tot.h"
+
+1588528427 source:c:\codeblocks\menu projet papo 4\defense.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"collisions.h"
+	"Global.h"
+
+1588531882 source:c:\codeblocks\menu projet papo 4\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"niveau.h"
+	"Global.h"
+
+1588527628 c:\codeblocks\menu projet papo 4\niveau.h
+	"attaque.h"
+
+1588528750 source:c:\codeblocks\menu projet papo 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"niveau.h"
+	"Global.h"
+
+1588523972 source:c:\codeblocks\menu projet papo 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"attaque.h"
+	"Global.h"
+
+1588531663 source:c:\codeblocks\menu projet papo 4\niveau_1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588527735 source:c:\codeblocks\menu projet papo 4\niveau_2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588527735 source:c:\codeblocks\menu projet papo 4\niveau_3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588523972 source:c:\codeblocks\menu projet papo 4\régles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588523972 source:c:\codeblocks\menu projet papo 4\score.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588529932 source:c:\codeblocks\menu projet papo 4\attaque.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588526710 c:\codeblocks\menu projet papo 4\global.h
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\attaque.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588543434 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\attaque.h
+	"collisions.h"
+	"def_tot.h"
+
+1588543433 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\collisions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"def_tot.h"
+
+1588543433 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\def_tot.h
+
+1588545256 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\global.h
+
+1588545256 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\collisions.c
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\def_tot.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\defense.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"collisions.h"
+	"Global.h"
+
+1588545754 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"niveau.h"
+	"Global.h"
+
+1588540004 c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\niveau.h
+	"attaque.h"
+
+1588543433 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"niveau.h"
+	"Global.h"
+
+1588543433 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"attaque.h"
+	"Global.h"
+
+1588545801 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\niveau_1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588545861 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\niveau_2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588545861 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\niveau_3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588540006 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\régles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588544039 source:c:\users\prontoalluso\documents\università\cours\informatique\projet s2\projet info s2\score.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588540373 source:c:\codeblocks\projet info s2\attaque.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588539997 c:\codeblocks\projet info s2\attaque.h
+	"collisions.h"
+	"def_tot.h"
+
+1588539998 c:\codeblocks\projet info s2\collisions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"def_tot.h"
+
+1588540000 c:\codeblocks\projet info s2\def_tot.h
+
+1588540001 c:\codeblocks\projet info s2\global.h
+
+1588539998 source:c:\codeblocks\projet info s2\collisions.c
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588540000 source:c:\codeblocks\projet info s2\def_tot.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"Global.h"
+
+1588539999 source:c:\codeblocks\projet info s2\defense.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"collisions.h"
+	"Global.h"
+
+1588541086 source:c:\codeblocks\projet info s2\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"niveau.h"
+	"Global.h"
+
+1588540003 c:\codeblocks\projet info s2\niveau.h
+	"attaque.h"
+
+1588540002 source:c:\codeblocks\projet info s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"niveau.h"
+	"Global.h"
+
+1588540003 source:c:\codeblocks\projet info s2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"attaque.h"
+	"Global.h"
+
+1588540743 source:c:\codeblocks\projet info s2\niveau_1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588540004 source:c:\codeblocks\projet info s2\niveau_2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588540004 source:c:\codeblocks\projet info s2\niveau_3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588540005 source:c:\codeblocks\projet info s2\régles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588540005 source:c:\codeblocks\projet info s2\score.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\attaque.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588543434 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\attaque.h
+	"collisions.h"
+	"def_tot.h"
+
+1588543433 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\collisions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"def_tot.h"
+
+1588543433 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\def_tot.h
+
+1588545256 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\global.h
+
+1588545256 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\collisions.c
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\def_tot.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\defense.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"collisions.h"
+	"Global.h"
+
+1588543433 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"niveau.h"
+	"Global.h"
+
+1588540004 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\niveau.h
+	"attaque.h"
+
+1588543433 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"attaque.h"
+	"Global.h"
+
+1588545801 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\niveau_1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588545861 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\niveau_2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588545861 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\niveau_3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588540006 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\régles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588544039 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\projet info s2\score.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\attaque.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588543434 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\attaque.h
+	"collisions.h"
+	"def_tot.h"
+
+1588543432 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\collisions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"def_tot.h"
+
+1588543432 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\def_tot.h
+
+1588545256 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\global.h
+
+1588545256 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\collisions.c
+	"collisions.h"
+	"def_tot.h"
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\def_tot.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"Global.h"
+
+1588545206 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\defense.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"attaque.h"
+	"def_tot.h"
+	"collisions.h"
+	"Global.h"
+
+1588548432 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"niveau.h"
+	"Global.h"
+
+1588540004 c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\niveau.h
+	"attaque.h"
+
+1588543432 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"niveau.h"
+	"Global.h"
+
+1588543432 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"attaque.h"
+	"Global.h"
+
+1588545800 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\niveau_1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588545860 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\niveau_2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588545860 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\niveau_3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	"attaque.h"
+	"collisions.h"
+	"Global.h"
+
+1588540006 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\régles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
+1588544038 source:c:\users\prontoalluso\documents\università\cours\inge 1\informatique\galiazzo-gaye-aitchabane (1)\galiazzo-gaye-aitchabane (1)\projet info s2\score.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Global.h"
+
